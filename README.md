@@ -18,5 +18,5 @@ Looking into code:
 5. Establish the game rules and methodologies.
 
 
-Executing the entire program will pop up the game window that consists of the main roles and actions of the game!!!
+Executing the entire program will pop up the game window !!!
 Okay then, now it's time to play😃
